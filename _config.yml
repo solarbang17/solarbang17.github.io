@@ -1,10 +1,11 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: SolarBang, the AI-Blockchain based 3d Printing Factory
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: solarbang IR web site
 
+subs: hong
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
-url: "https://jekynewage.github.io" # the base hostname & protocol for your site
+url: "https://solarbang17.github.io" # the base hostname & protocol for your site
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot: 
